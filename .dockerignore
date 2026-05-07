@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+/npm-debug.log
+/yarn-error.log
+/pnpm-debug.log
+/Dockerfile
+/docker-compose.yml
+/.env
+/.git
+/.gitignore
+/.vscode
+/storage
+/bootstrap/cache
+/public/storage
+/public/hot
